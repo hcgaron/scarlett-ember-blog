@@ -76,7 +76,7 @@ color_primary = "#01AD9F"
 [params]
 logo = "images/ScarlettEmberSerif.svg"
 logo_width = "200px"
-favicon = "images/favicon_io/favicon.ico"
+favicon = "images/favicon_io/favicon-32x32.png"
 # Meta data
 description = "Scarlett Ember's Personal Blog"
 author = "Themefisher"
