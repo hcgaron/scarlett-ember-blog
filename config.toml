@@ -76,9 +76,9 @@ color_primary = "#01AD9F"
 [params]
 logo = "images/ScarlettEmberSerif.svg"
 logo_width = "200px"
-favicon = "images/favicon.png"
+favicon = "images/favicon_io/favicon.ico"
 # Meta data
-description = "This is meta description"
+description = "Scarlett Ember's Personal Blog"
 author = "Themefisher"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
@@ -95,10 +95,10 @@ enable = false
 preloader = "" # use jpg, png, svg or gif format.
 
 # Instagram feed
-[params.instafeed]
-enable = false
-instagram_user = "bookworm"
-access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
+# [params.instafeed]
+# enable = false
+# instagram_user = "bookworm"
+# access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
 
 # Subscription
 #[params.subscription]
