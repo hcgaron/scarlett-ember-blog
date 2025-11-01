@@ -13,4 +13,4 @@ draft: false
 #   link: "https://linkedin.com"
 ---
 
-My name is Scarlett Ember. I am a precocious young lady who loves unicorns, cupcakes, gymnastics, bunnies, pretty Chrismas lights, and my family!
+My name is Scarlett Ember. I am a precocious young lady who loves unicorns, cupcakes, Tae Kwon Do, bunnies, baking, croceht, knitting, Jonathan Groff, pretty Chrismas lights, and my family!

@@ -87,7 +87,7 @@ search = true
 # main section
 mainSections = ["blog"]
 # copyright
-copyright = "© 2023 Scarlett Ember"
+copyright = "© 2025 Scarlett Ember"
 
 # Preloader
 [params.preloader]
